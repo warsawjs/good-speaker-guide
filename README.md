@@ -19,8 +19,9 @@
  * Przed spotkaniem prześlij prezentację na contact@warsawjs.com. Organizatorzy w miarę możliwości pomogą w poprawieniu drobnych usterek.
  * Przećwiczyć prelekcję w domu przed lustrem lub przed inną osobą. Pomaga to też w określeniu ile czasu zajmie wygłoszenie prezentacji.
  * Przyjdź przed czasem, czyli w okolicy 18:00. Będziesz mógł na spokojnie sprawdzić linki i obsługę komputera.
- * Ze względu na czas i możliwe problemy z przepinaniem komputerów slajdy będą na MacBooku Air. Pomocne skróty klawiaturowe:
-    * devTools: `cmd alt i`
+ * Ze względu na czas i możliwe problemy z przepinaniem komputerów slajdy będą na MacBooku Air. 
+ Pomocne skróty klawiaturowe:
+    * otworzenie DevTools: `cmd alt i`
     * zmiana rozmiaru fonta: 
         * zwiększ: `cmd +`
         * zmniejsz: `cmd -`
@@ -37,8 +38,8 @@
 ## Uwagi
 
  * Czas na prezentację to 25 minut. Po tym czasie organizatorzy zasygnalizują, że czas się skończył.
- * Prezentacje są ciekawsze kiedy zamiast typowego opisywania narzędzia, czy dokumentacji:
-    * opisują realne "rozwiązania problemów"
-    * opowiadają dowolną historię, czyli tzw. "z życia wzięte"
-    * wyjaśniają jak działa dane narzędzie
- * Cenne uwagi osoby, która badała 'success story' najlepszych prezentacji: https://www.youtube.com/watch?v=sHY7TdnWFuQ
+ * Prezentacje są ciekawsze, kiedy zamiast typowego opisywania narzędzia, czy dokumentacji:
+    * opisują realne **rozwiązania problemów**
+    * opowiadają dowolną historię, czyli tzw. **z życia wzięte**
+    * wyjaśniają, jak one **działają u podstaw**
+ * Cenne uwagi osoby, która badała **success story** najlepszych prezentacji: https://www.youtube.com/watch?v=sHY7TdnWFuQ
