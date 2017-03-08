@@ -45,3 +45,8 @@ czy dokumentacji:
     * wyjaśniają, jak one **działają u podstaw**
 * Cenne uwagi osoby, która badała **success story** najlepszych prezentacji:
 https://www.youtube.com/watch?v=sHY7TdnWFuQ
+
+## Pomysły
+
+* Realizacja kilku slajdów z quizem - aby pobudzić publiczność do odpowiadania na pytania
+* Realizacja kilka slajdów z dużym fontem - aby ludzie mogli zrobić zdjęcie i wrzucić na Twittera
