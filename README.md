@@ -10,7 +10,7 @@
     * kolorowanie składni
     * tło: białe (jasne) tło
 * Przygotować ekran z linkami, które były użyte podczas prelekcji. Nie musi 
-to być ostatni slajd. Ważne jest, żeby była taki slajd.
+to być ostatni slajd. Ważne jest, żeby był taki slajd.
 * Nie wolno używać żółtego oraz szarego koloru tekstu. Takie kolory nie są 
 dobrze widoczny na rzutniku.
 * Na slajdach nie może być żadnej reklamy innych podmiotów niż WarsawJS.
