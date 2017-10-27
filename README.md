@@ -12,7 +12,7 @@
 * Przygotować ekran z linkami, które były użyte podczas prelekcji. Nie musi 
    to być ostatni slajd. Ważne jest, żeby był taki slajd.
 * Nie wolno używać żółtego oraz szarego koloru tekstu. Takie kolory nie są 
-   dobrze widoczny na rzutniku.
+   dobrze widoczne na rzutniku.
 * Na slajdach nie może być żadnej reklamy innych podmiotów niż WarsawJS.
 * Slajdy w stylu ściana tekstu nie są efektywne ani efektowne.
 
