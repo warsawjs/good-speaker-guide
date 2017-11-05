@@ -46,6 +46,8 @@ do pokazywania kodu źródłowego.
     * wyjaśniają, jak one **działają u podstaw**
 * Cenne uwagi osoby, która badała **success story** najlepszych prezentacji:
 https://www.youtube.com/watch?v=sHY7TdnWFuQ
+* Wskazówki stworzone przez zespół Fiszki (autorstwa Piotra Boguckiego):
+https://www.fiszki.pl/lift/lp,1620.html
 
 ## Pomysły
 
