@@ -58,7 +58,7 @@
     * wyjaśniają, jak one **działają u podstaw**
 * Cenne uwagi osoby, która badała **success story** najlepszych speakerów:
     prezentacji: https://www.youtube.com/watch?v=sHY7TdnWFuQ
-* Wskazówki stworzone przez zespół Fiszki (autorstwa Piotra Boguckiego):
+* Wskazówki stworzone przez zespół Fiszki (autorstwa Piotra Buckiego):
     https://www.fiszki.pl/lift/lp,1620.html
 * Grzechy prezentacji technicznych:
     https://www.kainos.pl/blog/grzechy-prezentacji-technicznych/
