@@ -64,6 +64,8 @@
     https://www.kainos.pl/blog/grzechy-prezentacji-technicznych/
 * 10 przykazań tworzenia prezentacji i prezentowania:
     http://www.conowego.pl/porady/10-przykazan-tworzenia-prezentacji-i-prezentowania-13974/
+ * Strona dedykowana ludziom zaczynającym swoją przygodę ze sceną:
+    http://speaking.io/
 
 ## Pomysły
 
