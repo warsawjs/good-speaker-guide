@@ -66,6 +66,8 @@
     http://www.conowego.pl/porady/10-przykazan-tworzenia-prezentacji-i-prezentowania-13974/
  * Strona dedykowana ludziom zaczynającym swoją przygodę ze sceną:
     http://speaking.io/
+ * Prezentacja Sławka Sobótki na temat wystąpień publicznych:
+    https://www.youtube.com/watch?v=4PqZg5fAggQ
 
 ## Pomysły
 
