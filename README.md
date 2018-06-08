@@ -68,6 +68,8 @@
     http://speaking.io/
  * Prezentacja Sławka Sobótki na temat wystąpień publicznych:
     https://www.youtube.com/watch?v=4PqZg5fAggQ
+ * Dobre praktyki autorstwa @sprzedwojski
+    https://przedwojski.com/2017/11/04/presentation-tips-for-developers/
 
 ## Pomysły
 
