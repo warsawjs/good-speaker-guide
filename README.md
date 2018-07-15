@@ -6,15 +6,15 @@
 
 * Stosowany szablon: https://github.com/warsawjs/warsawjs-slides-template
 * Wymogi prezentacji tekstu na slajdach:
-    * Font:
+    + Font:
         - Wielkość fonta: minimum 21 pikseli
         - Krój:
-            - Six caps & Lato
-            - Raleway & Lobster
-            - Bauhaus
-            - Caviar dreams
-    * Kolorowanie składni
-    * Tło: białe (albo bardzo jasne)
+            * Six caps & Lato
+            * Raleway & Lobster
+            * Bauhaus
+            * Caviar dreams
+    + Kolorowanie składni
+    + Tło: białe (albo bardzo jasne)
 * Przygotować ekran z linkami, które były użyte podczas prelekcji. Nie musi 
    to być ostatni slajd.
 * Nie wolno używać żółtego oraz szarego koloru tekstu. Takie kolory nie są 
@@ -27,8 +27,12 @@
 
 * Przed spotkaniem prześlij prezentację na contact@warsawjs.com.
    Organizatorzy w miarę możliwości pomogą w poprawieniu drobnych usterek.
-* Przećwicz prelekcję w domu przed lustrem lub przed inną osobą.  Pomaga to 
-   też w określeniu ile czasu zajmie wygłoszenie prezentacji.
+* Przećwicz prelekcję
+   + w pracy - przed kolegami i koleżankami
+   + w domu - przed lustrem
+   + gdziekolwiek - przed inną osobą
+
+   Pomaga to też w określeniu ile czasu zajmie wygłoszenie prezentacji.
 * Przyjdź przed czasem, czyli w okolicy 18:00. Będziesz mógł na spokojnie
    sprawdzić linki oraz obsługę komputera.
 
@@ -53,9 +57,9 @@
    że czas się skończył.
 * Prezentacje są ciekawsze, kiedy zamiast typowego opisywania narzędzia,
    czy dokumentacji:
-    * opisują realne **rozwiązania problemów**
-    * opowiadają dowolną historię, czyli tzw. **z życia wzięte**
-    * wyjaśniają, jak one **działają u podstaw**
+    + opisują realne **rozwiązania problemów**
+    + opowiadają dowolną historię, czyli tzw. **z życia wzięte**
+    + wyjaśniają, jak one **działają u podstaw**
 * Cenne uwagi osoby, która badała **success story** najlepszych speakerów:
     prezentacji: https://www.youtube.com/watch?v=sHY7TdnWFuQ
 * Wskazówki stworzone przez zespół Fiszki (autorstwa Piotra Buckiego):
