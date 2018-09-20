@@ -1,6 +1,6 @@
 # speaker-guide
 
-> :star2: Zasady dobrego prelegenta
+Zasady dobrego prelegenta.
 
 ## Slajdy
 
