@@ -3,6 +3,8 @@
 ## Budowanie slajdów używając składni HTML
 
 * <https://revealjs.com/>
+* <https://shwr.me/>
+* <http://slides.seld.be>
 
 ## Budowanie slajdów używając składni Markdown
 
