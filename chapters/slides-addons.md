@@ -1,16 +1,17 @@
 # Dodatki do slajdów
 
-* Darmowe obrazki
+* Obrazki
     + <https://www.pexels.com/>
     + <https://picjumbo.com/>
     + <https://pixabay.com/>
     + <https://unsplash.com/>
-* Darmowe ikony
+* Ikony
     + <https://www.flaticon.com/>
-    + <http://img.icons8.com/>
+    + <https://img.icons8.com/>
     + <https://thenounproject.com/>
     + <https://www.svgrepo.com/>
-* Darmowe gify
+* Gify
     + <https://giphy.com/>
-* Darmowe fonty
+* Fonty
     + <http://fonts.google.com/>
+    + <https://fontpair.co/>
