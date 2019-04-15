@@ -1,0 +1,17 @@
+.app-nav {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+}
+
+.app-nav a {
+    padding: 0;
+    margin: 0;
+    border-bottom: none;
+}
+
+.app-nav img {
+    width: 100px;
+    margin-bottom: 5px;
+}
