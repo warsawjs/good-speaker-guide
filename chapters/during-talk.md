@@ -9,6 +9,7 @@
 ## Dobre praktyki
 
 * Powtórzyć pytanie uczestnika, które nie zostało powiedziane do mikrofonu
+* Pić wodę niegazowaną, gdyż po gazie lubi sie odbić
 
 ## Wskazówki dotyczące przebiegu prelekcji
 

@@ -35,6 +35,7 @@ Aby ostatecznie zweryfikować kolory najlepiej wykorzystać narzędzie:
     + Domyślny obszar kodu wyświetlanego
         w [popularnych frameworkach do budowy](chapters/slides-frameworks.md)
         slajdów jest o mały i wycentrowany
+* Kod na jasnym tle (light theme) jest o wiele lepiej widoczny z sali niż kod na ciemnym tle (dark theme).
 
 ## Animacje
 
