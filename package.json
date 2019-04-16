@@ -1,12 +1,15 @@
 {
     "name": "good-speaker-guide",
-    "version": "1.0.0",
-    "description": "📘 Podręcznik dobrego prelegenta.",
-    "author": "Piotr Kowalski <piecioshka@gmail.com> (https://piecioshka.pl)",
+    "version": "0.0.0",
+    "description": "",
     "license": "MIT",
     "scripts": {
         "test": "markdownlint . --ignore node_modules --ignore _sidebar.md --ignore _navbar.md",
         "pdf": "docsify-pdf-converter"
+    },
+    "devDependencies": {
+        "docsify-pdf-converter": "^2.0.6",
+        "markdownlint-cli": "^0.15.0"
     },
     "repository": {
         "type": "git",
@@ -15,9 +18,5 @@
     "bugs": {
         "url": "https://github.com/warsawjs/good-speaker-guide/issues"
     },
-    "homepage": "https://github.com/warsawjs/good-speaker-guide#readme",
-    "devDependencies": {
-        "docsify-pdf-converter": "^2.0.6",
-        "markdownlint-cli": "^0.15.0"
-    }
+    "homepage": "https://github.com/warsawjs/good-speaker-guide#readme"
 }
