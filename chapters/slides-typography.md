@@ -9,8 +9,8 @@
     + `Bauhaus`
     + `Caviar dreams`
 
-!> **UWAGA:** Font, który jest czytelny na monitorze komputera, wcale nie musi być czytelny
-na ekranie projektora!
+!> **UWAGA:** Font, który jest czytelny na monitorze komputera, wcale nie musi
+być czytelny na ekranie projektora!
 
 ## Kolor tekstu oraz tła
 
