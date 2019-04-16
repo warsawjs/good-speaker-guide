@@ -32,15 +32,28 @@ Aby ostatecznie zweryfikować kolory najlepiej wykorzystać narzędzie:
 * Nie trzeba numerować linii
 * Kod pokazać na całym ekranie
     + Lepiej rozciągnąć kod na całą szerokość
-    + Domyślny obszar kodu wyświetlanego
-        w [popularnych frameworkach do budowy](chapters/slides-frameworks.md)
-        slajdów jest o mały i wycentrowany
-* Kod na jasnym tle (light theme) jest o wiele lepiej widoczny z sali niż kod na ciemnym tle (dark theme).
+    + Domyślny obszar kodu wyświetlanego w popularnych frameworkach do budowy
+        slajdów jest o mały
+* Kod na jasnym tle (**light theme**) jest o wiele lepiej widoczny z sali niż
+    kod na ciemnym tle (**dark theme**)
+
+### ⚠️ Ryzykowne formaty prezentacji snippetów kodu
+
+Wykorzystanie poniższych usług jest wysoce ryzykowne do pokazywania kodu
+źródłowego z uwagi na domyślny wygląd, który nie ma wysokiego kontrastu.
+
+* <https://github.com/>
+* <https://gist.github.com/>
+* <https://carbon.now.sh/>
+
+Kod dobrze wygląda na slajdach uruchomionych na komputerze lub w warunkach
+zapewniających wysoki kontrast obrazu wyświetlanego za pomocą projektora,
+np. mocna lampa, duży ekran, brak światła padającego na ekran.
 
 ## Animacje
 
 * Animacje źle wyglądają na słabszych komputerach
     + Jeśli nie wiadomo z jakiego komputera będziesz prowadził prelekcję,
         to oszczędź sobie nerwów i wyłącz animacje
-* Długie animacje odciągają słuchaczy od faktycznej treści.
+* Długie animacje odciągają słuchaczy od faktycznej treści
     + Jeśli chcesz używać animacji to zadbaj, aby trwały krótko np. do 200ms
