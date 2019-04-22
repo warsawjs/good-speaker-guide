@@ -13,5 +13,5 @@
 * Gify
     + <https://giphy.com/>
 * Fonty
-    + <http://fonts.google.com/>
+    + <https://fonts.google.com/>
     + <https://fontpair.co/>

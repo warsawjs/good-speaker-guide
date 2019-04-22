@@ -2,9 +2,9 @@
 
 ## Nie wolno
 
-* Opieranie się nie wpływa pozytywnie na odbiór, świadczy o nudzie
-* Odwracanie się tyłem do publiczności, jest uważane za wielki błąd sceniczny
-* Trzymać rąk w kieszeni jest oznaką braku szacunku do rozmówcy
+* Opierać się — nie wpływa to pozytywnie na odbiór, świadczy o nudzie
+* Odwracać się tyłem do publiczności — jest to uważane za błąd sceniczny
+* Trzymać rąk w kieszeni — jest oznaką braku szacunku do publiczności
 
 ## Dobre praktyki
 
@@ -14,15 +14,15 @@
 ## Wskazówki dotyczące przebiegu prelekcji
 
 * Podczas prelekcji warto zadawać pytania i dawać upominki
-* Dobra prelekcja to opowiedzenie historii albo anegdota.
+* Dobra prelekcja to opowiedzenie historii albo anegdoty
     + Ważny jest moment refleksji
-* Opowiedzieć, dlaczego wybrany temat Cię interesuje
+* Warto opowiedzieć, dlaczego wybrany temat Cię interesuje
 
 ## Jak stworzyć ciekawą prelekcję
 
-Prezentacje są ciekawsze, kiedy zamiast typowego opisywania narzędzia,
-czy dokumentacji:
+Prezentacje są ciekawsze, kiedy zamiast typowego opisywania narzędzia albo
+dokumentacji:
 
 * Opisują realne **rozwiązania problemów**
 * Opowiadają dowolną historię, czyli tzw. **z życia wzięte**
-* Wyjaśniają, jak one **działają u podstaw**
+* Wyjaśniają, jak one (narzędzia) **działają u podstaw**
