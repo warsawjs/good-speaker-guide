@@ -4,8 +4,9 @@
     "description": "",
     "license": "MIT",
     "scripts": {
-        "test": "markdownlint . --ignore node_modules --ignore _sidebar.md --ignore _navbar.md",
-        "pdf": "docsify-pdf-converter"
+        "test": "npm run lint",
+        "lint": "markdownlint . --ignore node_modules --ignore _sidebar.md --ignore _navbar.md",
+        "build:pdf": "docsify-pdf-converter"
     },
     "devDependencies": {
         "docsify-pdf-converter": "^2.0.6",
@@ -14,9 +15,5 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/warsawjs/good-speaker-guide.git"
-    },
-    "bugs": {
-        "url": "https://github.com/warsawjs/good-speaker-guide/issues"
-    },
-    "homepage": "https://github.com/warsawjs/good-speaker-guide#readme"
+    }
 }
