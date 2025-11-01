@@ -1,20 +1,23 @@
-# Źródła
+# Sources
 
 * <https://www.youtube.com/watch?v=sHY7TdnWFuQ>
-    + Cenne uwagi osoby, która badała "success story" najlepszych speakerów
+    + Valuable insights from someone who researched the "success stories"
+        of the best speakers
 * <https://www.fiszki.pl/lift/lp,1620.html>
-    + Wskazówki stworzone przez zespół Fiszki (autorstwa Piotra Buckiego)
+    + Tips created by the Fiszki team (authored by Piotr Bucki)
 * <https://www.kainos.pl/blog/grzechy-prezentacji-technicznych/>
-    + Grzechy prezentacji technicznych
+    + Sins of technical presentations
 * <http://www.conowego.pl/porady/10-przykazan-tworzenia-prezentacji-i-prezentowania-13974/>
-    + 10 przykazań tworzenia prezentacji i prezentowania
+    + 10 commandments of creating and presenting presentations
 * <https://speaking.io/>
-    + Strona dedykowana ludziom zaczynającym swoją przygodę ze sceną
+    + A website dedicated to people starting their journey with the stage
 * <https://www.youtube.com/watch?v=4PqZg5fAggQ>
-    + Prezentacja Sławka Sobótki na temat wystąpień publicznych
+    + Sławek Sobótka's presentation on public speaking
 * <https://przedwojski.com/2017/11/04/presentation-tips-for-developers/>
-    + Dobre praktyki autorstwa [Szymona Przedwojskiego](https://twitter.com/sprzedwojski)
+    + Best practices by [Szymon Przedwojski](https://twitter.com/sprzedwojski)
 * <https://smyrdek.com/posts/przygotowanie-prezentacji/>
-    + Przygotowanie do prelekcji (cz. 1) autorstwa [Przemka Smyrdka](https://twitter.com/psmyrdek)
+    + Preparation for a talk (part 1) by
+        [Przemek Smyrdek](https://twitter.com/psmyrdek)
 * <https://smyrdek.com/posts/jak-robic-dobre-slajdy-prezentacje/>
-    + Przygotowanie do prelekcji (cz. 2) autorstwa [Przemka Smyrdka](https://twitter.com/psmyrdek)
+    + Preparation for a talk (part 2) by
+        [Przemek Smyrdek](https://twitter.com/psmyrdek)
