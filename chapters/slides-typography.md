@@ -1,59 +1,59 @@
-# Typografia na slajdach
+# Typography on Slides
 
 ## Font
 
-* Wielkość: **21px** i więcej
-* Kroje, które dobrze wyglądają na slajdach:
+* Size: **21px** and larger
+* Fonts that look good on slides:
     + `Six caps` & `Lato`
     + `Raleway` & `Lobster`
     + `Bauhaus`
     + `Caviar dreams`
 
-!> **UWAGA:** Font, który jest czytelny na monitorze komputera, wcale nie musi
-być czytelny na ekranie projektora!
+!> **WARNING:** A font that is readable on a computer monitor may not be
+readable on a projector screen!
 
-## Kolor tekstu oraz tła
+## Text and Background Color
 
-Slajdy będą wyświetlane za pomocą projektora. Lampa w nim nie zawsze jest
-na tyle mocna, aby były widoczne wszystkie kolory. Dlatego też warto zadbać
-o zachowanie odpowiedniego kontrastu między tekstem a tłem.
+Slides will be displayed using a projector. The lamp in it is not always
+strong enough for all colors to be visible. Therefore, it's worth maintaining
+proper contrast between text and background.
 
-* Dobrze widoczne zestawy kolorów:
-    + czarny — biały
-* Źle widoczne barwy:
-    + żółty — szary
+* Well-visible color combinations:
+    + black — white
+* Poorly visible colors:
+    + yellow — gray
 
-Aby ostatecznie zweryfikować kolory najlepiej wykorzystać narzędzie:
+To finally verify colors, it's best to use the tool:
 <https://contrast-ratio.com/>
 
-## Prezentacja kodu źródłowego
+## Source Code Presentation
 
-* Włącz kolorowanie składni
-* Nie trzeba numerować linii
-* Kod pokazać na całym ekranie
-    + Lepiej rozciągnąć kod na całą szerokość
-    + Domyślny obszar kodu wyświetlanego w popularnych frameworkach do budowy
-        slajdów jest o mały
-* Kod na jasnym tle (**light theme**) jest o wiele lepiej widoczny z sali niż
-    kod na ciemnym tle (**dark theme**)
+* Enable syntax highlighting
+* No need to number lines
+* Show code on the full screen
+    + It's better to stretch the code to full width
+    + The default code display area in popular slide-building frameworks is
+        too small
+* Code on a light background (**light theme**) is much more visible from the
+    audience than code on a dark background (**dark theme**)
 
-### ⚠️ Ryzykowne formaty prezentacji snippetów kodu
+### ⚠️ Risky Code Snippet Presentation Formats
 
-Wykorzystanie poniższych usług jest wysoce ryzykowne do pokazywania kodu
-źródłowego z uwagi na domyślny wygląd, który nie ma wysokiego kontrastu.
+Using the following services is highly risky for showing source code due to
+the default appearance, which doesn't have high contrast.
 
 * <https://github.com/>
 * <https://gist.github.com/>
 * <https://carbon.now.sh/>
 
-Kod dobrze wygląda na slajdach uruchomionych na komputerze lub w warunkach
-zapewniających wysoki kontrast obrazu wyświetlanego za pomocą projektora,
-np. mocna lampa, duży ekran, brak światła padającego na ekran.
+Code looks good on slides running on a computer or in conditions ensuring
+high contrast of the image displayed via projector, e.g., strong lamp, large
+screen, no light falling on the screen.
 
-## Animacje
+## Animations
 
-* Animacje źle wyglądają na słabszych komputerach
-    + Jeśli nie wiadomo z jakiego komputera będziesz prowadził prelekcję,
-        to oszczędź sobie nerwów i wyłącz animacje
-* Długie animacje odciągają słuchaczy od faktycznej treści
-    + Jeśli chcesz używać animacji to zadbaj, aby trwały krótko np. do 200ms
+* Animations look bad on weaker computers
+    + If you don't know what computer you'll be presenting from, save yourself
+        the stress and disable animations
+* Long animations distract listeners from actual content
+    + If you want to use animations, make sure they're short, e.g., up to 200ms

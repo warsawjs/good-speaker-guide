@@ -1,18 +1,18 @@
-# Wskazówki dotyczące budowy slajdów
+# Slide Building Tips
 
-* Przygotować ekran z linkami, które były użyte podczas prelekcji
-    + Nie musi to być ostatni slajd
-* Slajdy w stylu ściana tekstu nie są efektywne ani efektowne
-    + Jeśli mamy pokazać dużo tekstu to pokazywać go linia po linii
-* Realizacja kilku slajdów z quizem
-    + Pobudzi to słuchaczy do odpowiadania na pytania
-* Realizacja kilka slajdów z dużym fontem
-    + Słuchacze mogą zrobić zdjęcie, aby opublikować w social mediach
+* Prepare a screen with links that were used during the talk
+    + It doesn't have to be the last slide
+* Wall-of-text style slides are neither effective nor impressive
+    + If we need to show a lot of text, show it line by line
+* Create several quiz slides
+    + This will stimulate listeners to answer questions
+* Create several slides with large fonts
+    + Listeners can take photos to publish on social media
 
-!> **PAMIĘTAJ:** Slajdy są tylko podporą prezentacji.
+!> **REMEMBER:** Slides are only a support for the presentation.
 
-## Przykłady slajdów
+## Slide Examples
 
-* Koło w okręgu oraz poziome kreski po obu stronach (podobne do celownika)
+* Circle in a circle with horizontal lines on both sides (similar to crosshairs)
 
     ![](../images/example-slides/example-slides-1.jpg)

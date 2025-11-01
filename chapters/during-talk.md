@@ -1,28 +1,28 @@
-# Zasady podczas prelekcji
+# Guidelines During a Talk
 
-## Nie wolno
+## Don'ts
 
-* Opierać się — nie wpływa to pozytywnie na odbiór, świadczy o nudzie
-* Odwracać się tyłem do publiczności — jest to uważane za błąd sceniczny
-* Trzymać rąk w kieszeni — jest oznaką braku szacunku do publiczności
+* Lean — this doesn't positively affect reception, it signals boredom
+* Turn your back to the audience — this is considered a stage mistake
+* Keep hands in pockets — this is a sign of disrespect to the audience
 
-## Dobre praktyki
+## Best Practices
 
-* Powtórzyć pytanie uczestnika, które nie zostało powiedziane do mikrofonu
-* Pić wodę niegazowaną, gdyż po gazie lubi sie odbić
+* Repeat a participant's question that wasn't said into the microphone
+* Drink still water, as carbonated drinks can cause burping
 
-## Wskazówki dotyczące przebiegu prelekcji
+## Tips for the Course of a Talk
 
-* Podczas prelekcji warto zadawać pytania i dawać upominki
-* Dobra prelekcja to opowiedzenie historii albo anegdoty
-    + Ważny jest moment refleksji
-* Warto opowiedzieć, dlaczego wybrany temat Cię interesuje
+* During the talk, it's worth asking questions and giving away prizes
+* A good talk is telling a story or anecdote
+    + The moment of reflection is important
+* It's worth telling why the chosen topic interests you
 
-## Jak stworzyć ciekawą prelekcję
+## How to Create an Interesting Talk
 
-Prezentacje są ciekawsze, kiedy zamiast typowego opisywania narzędzia albo
-dokumentacji:
+Presentations are more interesting when, instead of typical tool or
+documentation descriptions, they:
 
-* Opisują realne **rozwiązania problemów**
-* Opowiadają dowolną historię, czyli tzw. **z życia wzięte**
-* Wyjaśniają, jak one (narzędzia) **działają u podstaw**
+* Describe real **problem solutions**
+* Tell any story, i.e., **from real life**
+* Explain how they (the tools) **work at their core**

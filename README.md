@@ -1,32 +1,31 @@
 # good-speaker-guide
 
-📘 Podręcznik dobrego prelegenta.
+📘 A handbook for good speakers.
 
-## O projekcie
+## About the Project
 
-Ten podręcznik powstał z myślą o osobach, które chcą rozwijać swoje
-umiejętności prezentacyjne, szczególnie w kontekście wystąpień technicznych.
-Zawiera praktyczne wskazówki dotyczące przygotowania slajdów, przygotowania
-do wystąpienia oraz zasad podczas prelekcji.
+This handbook was created for people who want to develop their presentation
+skills, especially in the context of technical talks. It contains practical
+tips on preparing slides, preparing for presentations, and guidelines during
+talks.
 
-## O WarsawJS
+## About WarsawJS
 
-WarsawJS to lokalna społeczność profesjonalistów i entuzjastów JavaScript,
-którzy spotykają się co miesiąc, aby rozmawiać o swoim ulubionym języku
-programowania. Społeczność skupia się na dzieleniu się doświadczeniem z
-różnych dziedzin, w których wykorzystywany jest JavaScript - od przeglądarek
-internetowych, przez serwery, narzędzia deweloperskie, urządzenia mobilne,
-Smart TV, mikrokontrolery, bazy danych, po gry wideo.
+WarsawJS is a local community of JavaScript professionals and enthusiasts who
+meet every month to talk about their favorite programming language. The
+community focuses on sharing experience from different fields where JavaScript
+is used - from web browsers, servers, development tools, mobile devices,
+Smart TVs, microcontrollers, databases, to video games.
 
-### Meetupy
+### Meetups
 
-Spotkania WarsawJS odbywają się w **drugą środę każdego miesiąca o godz.
-18:30** w 42 Warsaw, al. „Solidarności" 171B, 00-877 Warszawa.
+WarsawJS meetings take place on the **second Wednesday of each month at
+6:30 PM** at 42 Warsaw, al. „Solidarności" 171B, 00-877 Warsaw, Poland.
 
-### Kontakt
+### Contact
 
 - **Email**: <contact@warsawjs.com>
-- **Strona**: <https://warsawjs.com>
+- **Website**: <https://warsawjs.com>
 
 ### Social Media
 
@@ -36,9 +35,9 @@ Spotkania WarsawJS odbywają się w **drugą środę każdego miesiąca o godz.
 - **X/Twitter**: <https://x.com/warsawjs>
 - **Facebook**: <https://facebook.com/warsawjs>
 
-### Dodatkowe wydarzenia
+### Additional Events
 
-Raz w roku społeczność organizuje konferencję **ConfrontJS**:
+Once a year, the community organizes the **ConfrontJS** conference:
 <https://confrontjs.pl/>
 
-WarsawJS oferuje również warsztaty i inne wydarzenia przez cały rok.
+WarsawJS also offers workshops and other events throughout the year.

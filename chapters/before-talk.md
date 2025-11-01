@@ -1,12 +1,12 @@
-# Przygotowanie do prelekcji
+# Preparing for a Talk
 
-* Przećwicz wypowiedź — pomaga to też w określeniu ile czasu zajmie wygłoszenie
-    prezentacji:
-    + **W pracy** — przed zespołem
-    + **W domu** — przed lustrem
-    + **Gdziekolwiek** — przed inną osobą, która będzie w stanie udzielić Ci
-        wiadomości zwrotnej
-* Przyjdź przed rozpoczęciem wydarzenia:
-    + Sprawdź swój komputer, jeśli będziesz jego używał podczas swojej prelekcji
-    + Sprawdź, czy slajdy dobrze wyglądają na komputerze, na którym będą
-        wyświetlane
+* Practice your speech — this also helps determine how long your presentation
+    will take:
+    + **At work** — in front of your team
+    + **At home** — in front of a mirror
+    + **Anywhere** — in front of another person who can provide you with
+        feedback
+* Arrive before the event starts:
+    + Check your computer if you'll be using it during your talk
+    + Check that the slides look good on the computer where they will be
+        displayed

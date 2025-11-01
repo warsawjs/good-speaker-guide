@@ -1,10 +1,10 @@
-* [Wprowadzenie](README.md)
+* [Introduction](README.md)
 
-* Slajdy
-    + [Narzędzia do budowy slajdów](chapters/slides-frameworks.md)
-    + [Typografia na slajdach](chapters/slides-typography.md)
-    + [Wskazówki dotyczące budowy slajdów](chapters/slides-hints.md)
-    + [Dodatki do slajdów](chapters/slides-addons.md)
-* [Przygotowanie do prelekcji](chapters/before-talk.md)
-* [Zasady podczas prelekcji](chapters/during-talk.md)
-* [Źródła](chapters/sources.md)
+* Slides
+    + [Slide Building Tools](chapters/slides-frameworks.md)
+    + [Typography on Slides](chapters/slides-typography.md)
+    + [Slide Building Tips](chapters/slides-hints.md)
+    + [Slide Add-ons](chapters/slides-addons.md)
+* [Preparing for a Talk](chapters/before-talk.md)
+* [Guidelines During a Talk](chapters/during-talk.md)
+* [Sources](chapters/sources.md)

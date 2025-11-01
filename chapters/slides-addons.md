@@ -1,17 +1,17 @@
-# Dodatki do slajdów
+# Slide Add-ons
 
-* Obrazki
+* Images
     + <https://www.pexels.com/>
     + <https://picjumbo.com/>
     + <https://pixabay.com/>
     + <https://unsplash.com/>
-* Ikony
+* Icons
     + <https://www.flaticon.com/>
     + <https://img.icons8.com/>
     + <https://thenounproject.com/>
     + <https://www.svgrepo.com/>
-* Gify
+* GIFs
     + <https://giphy.com/>
-* Fonty
+* Fonts
     + <https://fonts.google.com/>
     + <https://fontpair.co/>
