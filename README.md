@@ -9,6 +9,21 @@ skills, especially in the context of technical talks. It contains practical
 tips on preparing slides, preparing for presentations, and guidelines during
 talks.
 
+This guide follows the principles of the **Berlin Code of Conduct**, promoting
+inclusive, accessible, and respectful presentations that welcome everyone
+regardless of gender, sexual orientation, ability, ethnicity, socioeconomic
+status, or religion.
+
+## Code of Conduct Commitment
+
+All speakers using this guide are expected to:
+
+- Create a friendly, safe, and welcoming environment for all participants
+- Use inclusive language and avoid assumptions about audience members
+- Make presentations accessible to people with diverse abilities
+- Refrain from any form of harassment, discrimination, or demeaning behavior
+- Respect the dignity and contributions of all community members
+
 ## About WarsawJS
 
 WarsawJS is a local community of JavaScript professionals and enthusiasts who
