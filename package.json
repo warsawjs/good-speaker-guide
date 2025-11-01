@@ -1,7 +1,7 @@
 {
     "name": "good-speaker-guide",
     "version": "1.0.0",
-    "description": "",
+    "description": "Podręcznik dobrego prelegenta - przewodnik WarsawJS po przygotowaniu i prowadzeniu prezentacji technicznych",
     "license": "MIT",
     "scripts": {
         "test": "npm run lint",
